@@ -26,3 +26,5 @@ I evaluated the model for prediction accauracy and explored different depth valu
 ### Recommendations
 I concluded by providing a recommendation based on the findings from my analysis.
 
+PS: Some of the visualization did not render because the data is located on my Google colab. Please open the notebook with colab to see the more interesting notebook. Thanks!
+
